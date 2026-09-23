@@ -1,0 +1,28 @@
+for final project:
+
+first final project (by group)
+- the program can store atleast 2 accounts per run.
+
+ps databasing is too hard to teach reliably.
+
+
+second final project(Individual)
+- compile all the projects
+- make them a gui
+- the register and login
+
+choose between Register or Login
+
+Register
+- You register
+- stores registration credentials
+- after you register it goes back to choosing between register or login
+
+Login
+- you choose login.
+- you enter registered credentials.
+
+Activity Frame
+- List all of the activities from this term.
+- Put them in a button, when you press that button it open a gui presenting the activity that was chosen.
+- 
