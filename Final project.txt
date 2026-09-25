@@ -26,7 +26,6 @@ upon launching the OOP it will open the following chronologicaly:
 
 
 
-ps databasing is too hard to teach reliably.
 
 
 second final project(Individual)
