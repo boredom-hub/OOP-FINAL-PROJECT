@@ -4,6 +4,27 @@ first final project (by group)
 - the program can store atleast 2 accounts per run.
 
 
+// for registration and login
+upon launching the OOP it will open the following chronologicaly:
+- The main screen where you get to choose to whether register or login
+- You choose register, then it directs you to a new screen where you can input your registration details.
+    after you have registered, 
+- You then is redirected into the main screen then
+- You choose login where you will be required to enter your detials that you registered to prove your credentials 
+    and gain access to you account.
+- After everything goes through it will open the product pricing application.
+
+// for product pricing system
+- it will the main frame of the program where the following are displayed and you need to enter the details below
+    1. Product name
+    2. Pricing strategy
+        - cost plus 
+        - fixed price
+    3. Production quantity
+    4. Sales quantity
+
+
+
 
 ps databasing is too hard to teach reliably.
 
