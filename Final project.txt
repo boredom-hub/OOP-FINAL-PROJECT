@@ -23,6 +23,12 @@ upon launching the OOP it will open the following chronologicaly:
     3. Production quantity
     4. Sales quantity
 
+For costs
+    1. Direct costs
+        add button
+            
+    2. Indirect costs
+
 
 
 
